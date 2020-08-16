@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineTypingTestPortal.Server", "Server\OnlineTypingTestPortal.Server.csproj", "{E930B439-1458-418F-B99A-C2B0EF4ED05A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineTypingTestPortal.Client", "Client\OnlineTypingTestPortal.Client.csproj", "{55CE13A5-F15B-4113-A3B5-9D123F4634C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineTypingTestPortal.Shared", "Shared\OnlineTypingTestPortal.Shared.csproj", "{A1F0FE42-A04F-4BB8-AE07-D3AB61B18C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E930B439-1458-418F-B99A-C2B0EF4ED05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E930B439-1458-418F-B99A-C2B0EF4ED05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E930B439-1458-418F-B99A-C2B0EF4ED05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E930B439-1458-418F-B99A-C2B0EF4ED05A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CE13A5-F15B-4113-A3B5-9D123F4634C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CE13A5-F15B-4113-A3B5-9D123F4634C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CE13A5-F15B-4113-A3B5-9D123F4634C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CE13A5-F15B-4113-A3B5-9D123F4634C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F0FE42-A04F-4BB8-AE07-D3AB61B18C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F0FE42-A04F-4BB8-AE07-D3AB61B18C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F0FE42-A04F-4BB8-AE07-D3AB61B18C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F0FE42-A04F-4BB8-AE07-D3AB61B18C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42319D71-3F66-472E-9CF7-99FE5EE513DB}
+	EndGlobalSection
+EndGlobal
